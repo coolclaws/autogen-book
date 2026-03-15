@@ -1,0 +1,26 @@
+{
+  "name": "autogen-book",
+  "version": "1.0.0",
+  "description": "AG2 源码解析 —— 微软 AutoGen 开源社区版多 Agent 对话编排框架深度剖析",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coolclaws/autogen-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coolclaws/autogen-book/issues"
+  },
+  "homepage": "https://github.com/coolclaws/autogen-book#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  },
+  "type": "module"
+}
